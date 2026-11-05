@@ -55,7 +55,7 @@
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| **Pathology Segmentation** 🚧 | Deep learning–based segmentation of histopathology images *(in progress)* | PyTorch · OpenCV |
+| **Pathology Segmentation** 🚧 | Deep learning–based segmentation of histopathology images *(in progress)* | U-Net - U-Net++ - DeepLabv3 - nnU-net|
 | [**Bee Classification**](https://github.com/VedatDemir4/bee_classification_matlab) | Image-based bee classification | MATLAB |
 
 ---
@@ -63,8 +63,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VedatDemir4&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedatDemir4&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+    <img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages"/> Languages"/>
 </p>
 
 <p align="center">
