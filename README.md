@@ -60,16 +60,7 @@
 
 ---
 
-### 📊 GitHub Analytics
 
-<p align="center">
-    <img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
-  <img height="165" src="./profile/top-langs.svg" alt="Top Languages"/> Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VedatDemir4&hide_border=true&theme=transparent" alt="GitHub Streak"/>
-</p>
 
 ---
 - 🌍 Languages: 🇹🇷 Turkish (Native) · 🇬🇧 English (B2)
