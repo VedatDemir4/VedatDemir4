@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/VedatDemir4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+Engineer;Computer+Vision+%26+Medical+Imaging;Deep+Learning+%7C+NLP+%7C+Big+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+Engineer;Computer+Vision+%26+Medical+Imaging;Deep+Learning+%7C+NLP+%7C+Big+Data;Data+Science" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,11 +25,11 @@
 
 ---
 
-- 🌍 Languages: 🇹🇷 Turkish (Native) · 🇬🇧 English (B2)
+- 🌍 Languages: Turkish (Native) · English (B2)
 ![Turkish](https://img.shields.io/badge/Turkish-Native-E30A17?style=flat-square)
 ![English](https://img.shields.io/badge/English-B2-012169?style=flat-square)
 
-
+---
 ### 🛠️ Tech Stack
 
 | Category | Technologies |
