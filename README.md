@@ -25,6 +25,11 @@
 
 ---
 
+- 🌍 Languages: 🇹🇷 Turkish (Native) · 🇬🇧 English (B2)
+![Turkish](https://img.shields.io/badge/Turkish-Native-E30A17?style=flat-square)
+![English](https://img.shields.io/badge/English-B2-012169?style=flat-square)
+
+
 ### 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -56,16 +61,14 @@
 | Project | Description | Tech |
 |:--|:--|:--|
 | **Pathology Segmentation** 🚧 | Deep learning–based segmentation of histopathology images *(in progress)* | U-Net - U-Net++ - DeepLabv3 - nnU-net|
-| [**Bee Classification**](https://github.com/VedatDemir4/bee_classification_matlab) | Image-based bee classification | MATLAB |
+| [**Bee Classification**] | Image-based bee classification | YOLOv5 - YOLOv8 - YOLO11 |
 
 ---
 
 
 
 ---
-- 🌍 Languages: 🇹🇷 Turkish (Native) · 🇬🇧 English (B2)
-![Turkish](https://img.shields.io/badge/Turkish-Native-E30A17?style=flat-square)
-![English](https://img.shields.io/badge/English-B2-012169?style=flat-square)
+
 ### 🤝 Connect
 
 <p align="center">
