@@ -61,7 +61,7 @@
 | Project | Description | Tech |
 |:--|:--|:--|
 | **Pathology Segmentation** 🚧 | Deep learning–based segmentation of histopathology images *(in progress)* | U-Net - U-Net++ - DeepLabv3 - nnU-net|
-| [**Bee Classification**] | Image-based bee classification and detection | YOLOv5 - YOLOv8 - YOLO11 |
+| **Bee Classification and Detection** | Image-based bee classification and detection | YOLOv5 - YOLOv8 - YOLO11 |
 
 ---
 
